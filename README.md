@@ -1,4 +1,4 @@
-# trabalho_assistente
+# ALPOO - Trabalho Final 4° Semestre
 Arthur Franco Mendonça Crepaldi (N651EE0)
 
 Guilherme Simões Ribeiro (B302CE1)
